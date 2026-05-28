@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Live Panel",
+  "description": "Curate your own panel with experts and ask live questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
