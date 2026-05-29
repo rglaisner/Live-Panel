@@ -1907,8 +1907,8 @@ ${fullScript}
        )}
 
       <footer className="w-full max-w-3xl mx-auto text-center py-6 mt-auto pb-24">
-        <p className="text-sm text-slate-500">Powered by Google Gemini</p>
-        <p className="text-xs text-slate-600 mt-2">Gemini can make mistakes, so double-check it.</p>
+        <p className="text-sm text-slate-500">Powered by Remy</p>
+        <p className="text-xs text-slate-600 mt-2">Unlike me, AI can make mistakes, so double-check it.</p>
       </footer>
 
       <AnimatePresence>
